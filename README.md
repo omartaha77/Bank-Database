@@ -16,7 +16,7 @@ Installing
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/simple-banking-system.git
+git clone [https://github.com/your-username/simple-banking-system.git](https://github.com/omartaha77/Bank-Database.git)
 cd simple-banking-system
 Compile the code:
 bash
